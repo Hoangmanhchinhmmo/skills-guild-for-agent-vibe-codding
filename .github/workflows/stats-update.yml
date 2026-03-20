@@ -1,0 +1,21 @@
+name: Stats Update
+
+on:
+  schedule:
+    - cron: "0 0 * * 1" # Runs weekly on Monday at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  count-skills:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Count total skills
+        run: |
+          echo "Counting skills in skills/en/*.md ..."
+          COUNT=$(grep -rch '| `' skills/en/*.md 2>/dev/null | paste -sd+ - | bc 2>/dev/null || echo 0)
+          echo "==========================================="
+          echo "  Total skills found: $COUNT"
+          echo "==========================================="
+          echo "SKILL_COUNT=$COUNT" >> "$GITHUB_ENV"
