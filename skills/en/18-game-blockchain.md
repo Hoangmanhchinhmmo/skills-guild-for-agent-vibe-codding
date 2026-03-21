@@ -31,3 +31,7 @@
 | `lightning-architecture-review` | Review Lightning Network protocol architecture | [SPEC] |
 | `lightning-channel-factories` | Design Lightning channel factory patterns | [SPEC] |
 | `lightning-factory-explainer` | Explain Lightning factory concepts | [SPEC] |
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

@@ -1,5 +1,5 @@
 # Frontend Development
-> 99 skills | Build user interfaces, design systems, 3D experiences, and animations
+> 94 skills | Build user interfaces, design systems, 3D experiences, and animations
 
 ## React Ecosystem
 | Skill | What it does | Level |
@@ -186,3 +186,7 @@
 **Combine with:** `interactive-portfolio` > `tailwind-patterns` > `3d-web-experience` > `seo-fundamentals`
 **Example prompt:** > /interactive-portfolio Build me a developer portfolio with a dark theme, animated project cards, a skills timeline, and a contact form that sends emails
 **Don't use when:** You just need a simple static page with your bio and links -- use `landing-page-generator` for something quicker
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

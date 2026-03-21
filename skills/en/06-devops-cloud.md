@@ -1,5 +1,5 @@
 # DevOps & Cloud Infrastructure
-> 55 skills | Containerize, deploy, and manage infrastructure across clouds
+> 47 skills | Containerize, deploy, and manage infrastructure across clouds
 
 ## Docker & Containers
 | Skill | What it does | Level |
@@ -75,3 +75,7 @@
 |-------|-------------|-------|
 | `network-engineer` | Design cloud network infrastructure | [SPEC] |
 | `network-101` | Network setup basics | [SPEC] |
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

@@ -1,5 +1,5 @@
 # Git, CI/CD & Build Tools
-> 34 skills | Manage source control, automate pipelines, and streamline builds
+> 31 skills | Manage source control, automate pipelines, and streamline builds
 
 ## Git Workflows
 | Skill | What it does | Level |
@@ -47,3 +47,7 @@
 | `nx-workspace-patterns` | Set up and manage Nx workspaces | [SPEC] |
 | `bazel-build-optimization` | Optimize builds with Bazel | [SPEC] |
 | `build` | General build system guidance | [SPEC] |
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

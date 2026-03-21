@@ -1,5 +1,5 @@
 # Meta-Skills, Personas & System Tools
-> 80 skills | Manage skills, simulate expert personas, write content, and configure system tools
+> 79 skills | Manage skills, simulate expert personas, write content, and configure system tools
 
 ## Skill Management
 | Skill | What it does | Level |
@@ -147,3 +147,7 @@
 **Combine with:** `claude-code-guide` > `claude-api` > `prompt-engineer` > `llm-structured-output`
 **Example prompt:** > /claude-api Build a Node.js service that uses the Claude API to summarize customer support tickets and categorize them by urgency
 **Don't use when:** You just want to use Claude interactively in your terminal -- use `claude-code-guide` instead
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

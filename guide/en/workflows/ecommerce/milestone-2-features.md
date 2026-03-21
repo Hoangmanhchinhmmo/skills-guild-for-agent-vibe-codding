@@ -8,7 +8,7 @@
 
 ## Phase 2.1: Authentication + OAuth
 
-**What you'll get:** A complete login system — email/password registration, Google and Facebook sign-in buttons, password reset flow, and protected pages that redirect unauthenticated visitors to the login screen. Users get a profile page to manage their info.
+**What you'll get:** A complete login system — email/password registration, Google and GitHub sign-in buttons, password reset flow, and protected pages that redirect unauthenticated visitors to the login screen. Users get a profile page to manage their info.
 
 **Skills to activate:**
 - `/auth-implementation-patterns`
@@ -27,7 +27,7 @@
 >
 > **Auth Pages:**
 > - Create /sign-in and /sign-up pages using Clerk's prebuilt components (<SignIn /> and <SignUp />).
-> - Configure OAuth providers: enable Google and Facebook sign-in in the Clerk component appearance settings.
+> - Configure OAuth providers: enable Google and GitHub sign-in in the Clerk component appearance settings.
 > - Add a forgot password flow (Clerk handles this automatically, but make sure the sign-in page shows the "Forgot password?" link).
 >
 > **Protected Routes:**
@@ -62,7 +62,7 @@
 
 **Troubleshooting:**
 - Clerk components not rendering → Make sure `ClerkProvider` wraps the entire app in the root `layout.tsx`, not inside a nested layout
-- OAuth buttons not appearing → Enable Google and Facebook providers in the Clerk Dashboard under "User & Authentication > Social Connections"
+- OAuth buttons not appearing → Enable Google and GitHub providers in the Clerk Dashboard under "User & Authentication > Social Connections"
 - 401 errors on API calls after login → Confirm the frontend sends the token via `getToken()` from `useAuth()` and the backend verifies it with `@clerk/express` middleware
 - Webhook not creating user in MongoDB → Check that the Clerk webhook endpoint URL is correct in the Clerk Dashboard, and the route is listed as a public route in your Next.js middleware
 
@@ -551,7 +551,7 @@
 **What you have now:** A full-featured e-commerce store with user accounts, admin panel, 3 payment methods, coupon system, product reviews, and automated emails.
 
 You have built:
-- User authentication with email/password and Google/Facebook OAuth
+- User authentication with email/password and Google/GitHub OAuth
 - Complete order lifecycle management with status tracking
 - A rich admin dashboard with revenue analytics, product CRUD, and order management
 - A coupon and discount system with server-side validation

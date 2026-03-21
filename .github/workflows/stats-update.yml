@@ -14,8 +14,11 @@ jobs:
       - name: Count total skills
         run: |
           echo "Counting skills in skills/en/*.md ..."
-          COUNT=$(grep -rch '| `' skills/en/*.md 2>/dev/null | paste -sd+ - | bc 2>/dev/null || echo 0)
+          COUNT=$(grep -rch '^| `' skills/en/*.md 2>/dev/null | paste -sd+ - | bc 2>/dev/null || echo 0)
           echo "==========================================="
           echo "  Total skills found: $COUNT"
           echo "==========================================="
           echo "SKILL_COUNT=$COUNT" >> "$GITHUB_ENV"
+
+      - name: Report count
+        run: echo "### Total skills: $SKILL_COUNT" >> $GITHUB_STEP_SUMMARY

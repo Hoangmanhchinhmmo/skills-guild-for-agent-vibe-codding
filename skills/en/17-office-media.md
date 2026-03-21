@@ -1,5 +1,5 @@
 # Office, Media & Image Generation
-> 43 skills | Create documents, generate images, process audio/video, and scrape web data
+> 37 skills | Create documents, generate images, process audio/video, and scrape web data
 
 ## Office Documents
 | Skill | What it does | Level |
@@ -53,3 +53,7 @@
 | `web-scraper` | Scrape websites using multiple strategies | [SPEC] |
 | `go-playwright` | Automate browsers with Go and Playwright | [SPEC] |
 | `go-rod-master` | Automate browsers with Go-rod | [SPEC] |
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

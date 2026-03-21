@@ -1,5 +1,5 @@
 # Programming Languages & Shell
-> 82 skills | Write better code across Python, JavaScript, Rust, Go, and many more languages
+> 77 skills | Write better code across Python, JavaScript, Rust, Go, and many more languages
 
 ## Python
 | Skill | What it does | Level |
@@ -121,3 +121,7 @@
 | `avalonia-layout-zafiro` | Build layouts with Avalonia Zafiro | [SPEC] |
 | `avalonia-viewmodels-zafiro` | Create ViewModels in Avalonia Zafiro | [SPEC] |
 | `avalonia-zafiro-development` | Develop apps with Avalonia Zafiro | [SPEC] |
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

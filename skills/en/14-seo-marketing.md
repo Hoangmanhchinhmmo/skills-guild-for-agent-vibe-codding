@@ -1,5 +1,5 @@
 # SEO, Marketing & CRO
-> 47 skills | Boost search rankings, grow your audience, and optimize conversions
+> 46 skills | Boost search rankings, grow your audience, and optimize conversions
 
 ## SEO
 | Skill | What it does | Level |
@@ -78,3 +78,7 @@
 **Combine with:** `seo-keyword-strategist` > `seo-fundamentals` > `seo-content-writer` > `schema-markup`
 **Example prompt:** > /seo-fundamentals Audit my portfolio site at example.com and give me a beginner-friendly list of SEO improvements I should make before launch
 **Don't use when:** You already know SEO basics and need advanced tactics like programmatic SEO or featured snippet targeting -- use `programmatic-seo` or `seo-snippet-hunter` instead
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

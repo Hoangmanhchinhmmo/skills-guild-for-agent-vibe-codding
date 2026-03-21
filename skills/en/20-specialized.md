@@ -1,5 +1,5 @@
 # Specialized Industry Skills
-> 104 skills | Domain-specific tools for ERP, healthcare, logistics, HR, scraping, and more
+> 110 skills | Domain-specific tools for ERP, healthcare, logistics, HR, scraping, and more
 
 ## Odoo ERP
 | Skill | What it does |
@@ -202,3 +202,7 @@
 **Combine with:** `shopify-development` > `stripe-integration` > `seo-fundamentals` > `landing-page-generator`
 **Example prompt:** > /shopify-development Build a custom Shopify theme section that displays a filterable product grid with color swatches and quick-add-to-cart buttons
 **Don't use when:** You just need to automate store operations like inventory updates or order management -- use `shopify-automation` instead
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

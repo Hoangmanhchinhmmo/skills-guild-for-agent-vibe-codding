@@ -69,3 +69,7 @@
 | `code-simplifier` | Simplify code for clarity | [SPEC] |
 | `codebase-audit-pre-push` | Audit code before pushing | [SPEC] |
 | `sharp-edges` | Detect error-prone APIs | [SPEC] |
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

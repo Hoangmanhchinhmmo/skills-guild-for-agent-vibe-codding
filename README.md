@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="README.vi.md">Tieng Viet</a> |
+  <a href="README.vi.md">Tiếng Việt</a> |
   <a href="guide/en/getting-started.md">Getting Started</a> |
   <a href="guide/en/skill-combos.md">Skill Combos</a> |
   <a href="guide/en/how-to-choose-skills.md">How to Choose</a> |
@@ -56,6 +56,8 @@ Using Claude Code skills takes 3 steps. No setup, no install, no config required
 
 ---
 
+<a id="skill-finder"></a>
+
 ## Skill Finder: Match Your Goal to the Right Claude Code Skill
 
 > "I want to..." — find the right Claude Code skill in seconds.
@@ -82,31 +84,33 @@ Not finding your use case? Check the [full decision tree](guide/en/how-to-choose
 
 ---
 
+<a id="categories"></a>
+
 ## All 21 Claude Code Skill Categories
 
 | # | Category | Skills | What you can build |
 |---|----------|--------|--------------------|
-| 01 | [AI, Agent, LLM & Prompt](skills/en/01-ai-agent.md) | 80 | AI agents, chatbots, RAG systems, prompt engineering |
-| 02 | [Backend Development](skills/en/02-backend.md) | 82 | APIs with Node.js, Python, .NET, PHP, Go, Ruby |
-| 03 | [Frontend Development](skills/en/03-frontend.md) | 80 | React, Next.js, Angular, Tailwind CSS, 3D visuals |
-| 04 | [Mobile Development](skills/en/04-mobile.md) | 40 | React Native, Flutter, iOS, Android apps |
-| 05 | [Database & Storage](skills/en/05-database.md) | 30 | PostgreSQL, MongoDB, Redis, database migrations |
-| 06 | [DevOps & Cloud](skills/en/06-devops-cloud.md) | 48 | AWS, GCP, Azure, Docker, Kubernetes deployments |
-| 07 | [Testing & QA](skills/en/07-testing.md) | 42 | Unit tests, E2E with Playwright, TDD, performance |
-| 08 | [Security](skills/en/08-security.md) | 65 | Security audits, penetration testing, vulnerability scanning |
-| 09 | [API & Documentation](skills/en/09-api-docs.md) | 25 | REST APIs, GraphQL, OpenAPI specs, doc generation |
+| 01 | [AI, Agent, LLM & Prompt](skills/en/01-ai-agent.md) | 84 | AI agents, chatbots, RAG systems, prompt engineering |
+| 02 | [Backend Development](skills/en/02-backend.md) | 77 | APIs with Node.js, Python, .NET, PHP, Go, Ruby |
+| 03 | [Frontend Development](skills/en/03-frontend.md) | 94 | React, Next.js, Angular, Tailwind CSS, 3D visuals |
+| 04 | [Mobile Development](skills/en/04-mobile.md) | 37 | React Native, Flutter, iOS, Android apps |
+| 05 | [Database & Storage](skills/en/05-database.md) | 33 | PostgreSQL, MongoDB, Redis, database migrations |
+| 06 | [DevOps & Cloud](skills/en/06-devops-cloud.md) | 47 | AWS, GCP, Azure, Docker, Kubernetes deployments |
+| 07 | [Testing & QA](skills/en/07-testing.md) | 49 | Unit tests, E2E with Playwright, TDD, performance |
+| 08 | [Security](skills/en/08-security.md) | 76 | Security audits, penetration testing, vulnerability scanning |
+| 09 | [API & Documentation](skills/en/09-api-docs.md) | 26 | REST APIs, GraphQL, OpenAPI specs, doc generation |
 | 10 | [Architecture & Design](skills/en/10-architecture.md) | 35 | DDD, microservices, system design patterns |
-| 11 | [Programming Languages](skills/en/11-languages.md) | 75 | Python, TypeScript, Go, Rust, C++, Java, and more |
-| 12 | [Git & CI/CD](skills/en/12-git-cicd.md) | 28 | Git workflows, GitHub Actions, GitLab CI pipelines |
-| 13 | [Monitoring & Observability](skills/en/13-monitoring.md) | 30 | Grafana dashboards, Prometheus, logging, alerting |
-| 14 | [SEO & Marketing](skills/en/14-seo-marketing.md) | 63 | SEO optimization, content marketing, CRO, analytics |
-| 15 | [Automation & Integration](skills/en/15-automation.md) | 120 | CRM, email, Slack, project management automation |
-| 16 | [Azure SDK](skills/en/16-azure-sdk.md) | 110 | Azure AI, storage, messaging, serverless services |
-| 17 | [Office & Media](skills/en/17-office-media.md) | 30 | PDF, PowerPoint, Excel, image and video generation |
-| 18 | [Game & Blockchain](skills/en/18-game-blockchain.md) | 18 | Unity, Godot, Solidity smart contracts, Web3, NFTs |
+| 11 | [Programming Languages](skills/en/11-languages.md) | 77 | Python, TypeScript, Go, Rust, C++, Java, and more |
+| 12 | [Git & CI/CD](skills/en/12-git-cicd.md) | 31 | Git workflows, GitHub Actions, GitLab CI pipelines |
+| 13 | [Monitoring & Observability](skills/en/13-monitoring.md) | 33 | Grafana dashboards, Prometheus, logging, alerting |
+| 14 | [SEO & Marketing](skills/en/14-seo-marketing.md) | 46 | SEO optimization, content marketing, CRO, analytics |
+| 15 | [Automation & Integration](skills/en/15-automation.md) | 114 | CRM, email, Slack, project management automation |
+| 16 | [Azure SDK](skills/en/16-azure-sdk.md) | 123 | Azure AI, storage, messaging, serverless services |
+| 17 | [Office & Media](skills/en/17-office-media.md) | 37 | PDF, PowerPoint, Excel, image and video generation |
+| 18 | [Game & Blockchain](skills/en/18-game-blockchain.md) | 19 | Unity, Godot, Solidity smart contracts, Web3, NFTs |
 | 19 | [Workflow & Planning](skills/en/19-workflow.md) | 55 | Project planning, code review, debugging workflows |
-| 20 | [Specialized & Industry](skills/en/20-specialized.md) | 100 | Healthcare, legal, finance, e-commerce solutions |
-| 21 | [Meta-Skills & Tools](skills/en/21-meta-skills.md) | 76 | Skill management, AI personas, system configuration |
+| 20 | [Specialized & Industry](skills/en/20-specialized.md) | 110 | Healthcare, legal, finance, e-commerce solutions |
+| 21 | [Meta-Skills & Tools](skills/en/21-meta-skills.md) | 79 | Skill management, AI personas, system configuration |
 
 ---
 

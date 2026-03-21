@@ -1,5 +1,5 @@
 # Monitoring, Observability & Incidents
-> 37 skills | Monitor systems, respond to incidents, and debug issues effectively
+> 33 skills | Monitor systems, respond to incidents, and debug issues effectively
 
 ## Observability
 | Skill | What it does | Level |
@@ -49,3 +49,7 @@
 | `performance-engineer` | Engineer high-performance systems | [SPEC] |
 | `performance-profiling` | Profile applications for bottlenecks | [SPEC] |
 | `performance-optimizer` | Find and fix performance bottlenecks | [SPEC] |
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

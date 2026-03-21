@@ -1,5 +1,5 @@
 # Planning, Workflow & Project Management
-> 58 skills | Plan tasks, run research, analyze business opportunities, and manage delivery workflows
+> 55 skills | Plan tasks, run research, analyze business opportunities, and manage delivery workflows
 
 ## Planning & Execution
 | Skill | What it does | Level |
@@ -123,3 +123,7 @@
 **Combine with:** `writing-plans` > `executing-plans` > `verification-before-completion`
 **Example prompt:** > /executing-plans Follow the plan in PLAN.md and start implementing from step 3 — steps 1 and 2 are already done
 **Don't use when:** You do not have a plan yet — use `writing-plans` first to create one
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)
