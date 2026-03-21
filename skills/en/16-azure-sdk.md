@@ -1,5 +1,5 @@
 # Azure SDK Collection
-> 116 skills | Official Azure SDK skills across .NET, Java, Python, TypeScript, and Rust
+> 123 skills | Official Azure SDK skills across .NET, Java, Python, TypeScript, and Rust
 
 > All Azure SDK skills require Azure credentials. Configure `azure-identity-*` first.
 
@@ -173,3 +173,7 @@
 | `m365-agents-dotnet` | .NET |
 | `m365-agents-py` | Python |
 | `m365-agents-ts` | TypeScript |
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

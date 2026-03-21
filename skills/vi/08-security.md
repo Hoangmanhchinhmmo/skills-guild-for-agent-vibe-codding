@@ -1,14 +1,14 @@
 # 08 — Security & Penetration Testing
 
-> **CANH BAO:** Tat ca skills trong file nay la [SEC].
-> Chi su dung khi co quyen ro rang: pentest engagement, CTF, lab, defensive security.
+> **CẢNH BÁO:** Tất cả skills trong file này là [SEC].
+> Chỉ sử dụng khi có quyền rõ ràng: pentest engagement, CTF, lab, defensive security.
 
 ## Security General
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `007` | Security audit, hardening, STRIDE |
 | `security` | Security general |
-| `security-audit` | Security audit tong quat |
+| `security-audit` | Security audit tổng quát |
 | `security-auditor` | DevSecOps audit |
 | `vulnerability-scanner` | OWASP 2025 scanning |
 | `security-bluebook-builder` | Security Blue Books |
@@ -37,7 +37,7 @@
 | `variant-analysis` | Find similar vulnerabilities |
 
 ## Penetration Testing
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `pentest-checklist` | Pentest planning |
 | `pentest-commands` | Pentest commands |
@@ -60,7 +60,7 @@
 | `top-web-vulnerabilities` | Top web vulns |
 
 ## Offensive Tools
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `metasploit-framework` | Metasploit |
 | `burp-suite-testing` | Burp Suite |
@@ -72,7 +72,7 @@
 | `semgrep-rule-variant-creator` | Semgrep variants |
 
 ## Red Team & Attack
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `red-team-tactics` | MITRE ATT&CK |
 | `red-team-tools` | Red team tooling |
@@ -84,14 +84,14 @@
 | `ethical-hacking-methodology` | Ethical hacking |
 
 ## Threat Modeling
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `threat-modeling-expert` | Threat modeling |
 | `stride-analysis-patterns` | STRIDE methodology |
 | `threat-mitigation-mapping` | Threat → controls |
 
 ## Reverse Engineering
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `reverse-engineer` | Binary analysis |
 | `firmware-analyst` | Firmware analysis |
@@ -102,3 +102,7 @@
 | `malware-analyst` | Defensive malware |
 | `memory-safety-patterns` | RAII, ownership |
 | `dwarf-expert` | DWARF debug info |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

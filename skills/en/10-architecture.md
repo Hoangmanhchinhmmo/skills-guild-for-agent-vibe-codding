@@ -1,5 +1,5 @@
 # Architecture & Design Patterns
-> 36 skills | Structure your codebase with proven architecture and design patterns
+> 35 skills | Structure your codebase with proven architecture and design patterns
 
 ## Software Architecture
 | Skill | What it does | Level |
@@ -59,3 +59,7 @@
 | `screen-reader-testing` | Test with screen readers | [SPEC] |
 | `fixing-accessibility` | Fix HTML accessibility issues | [SPEC] |
 | `i18n-localization` | Implement internationalization patterns | [SPEC] |
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

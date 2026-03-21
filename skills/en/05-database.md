@@ -1,5 +1,5 @@
 # Database & Data Engineering
-> 37 skills | Design schemas, optimize queries, build pipelines, and run ML in production
+> 33 skills | Design schemas, optimize queries, build pipelines, and run ML in production
 
 ## Database Design & Admin
 | Skill | What it does | Level |
@@ -69,3 +69,7 @@
 **Combine with:** `firebase` > `clerk-auth` > `react-nextjs-development` > `mobile-developer`
 **Example prompt:** > /firebase Set up a Firebase backend for a task management app with Google login, Firestore database for tasks, and Cloud Functions that send reminder emails
 **Don't use when:** You need a relational SQL database with complex queries and joins -- use `postgresql` or `supabase-automation` instead
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

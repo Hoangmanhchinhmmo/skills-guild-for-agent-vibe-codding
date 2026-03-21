@@ -1,5 +1,5 @@
 # Security & Penetration Testing
-> 65 skills | Secure your applications with audits, pen testing, and security best practices
+> 76 skills | Secure your applications with audits, pen testing, and security best practices
 
 > **WARNING:** All skills in this file are [SEC].
 > Only use with explicit authorization: pentest engagements, CTFs, labs, or defensive security.
@@ -131,3 +131,7 @@
 **Combine with:** `clerk-auth` > `react-nextjs-development` > `stripe-integration` > `saas-mvp-launcher`
 **Example prompt:** > /clerk-auth Add Clerk authentication to my Next.js app with Google and GitHub social login, protected dashboard routes, and a user profile page
 **Don't use when:** You need full control over your auth system or are using a non-JavaScript backend -- consider `firebase` auth or building custom auth with `security` guidance
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

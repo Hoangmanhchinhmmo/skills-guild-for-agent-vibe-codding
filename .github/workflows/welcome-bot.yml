@@ -20,12 +20,12 @@ jobs:
           issue-message: |
             Welcome to the Vibe Coding Skills Guild! Thanks for opening your first issue here.
 
-            We're glad you're contributing to the community. If you haven't already, please check out our [CONTRIBUTING.md](../CONTRIBUTING.md) guide for tips on how to get involved.
+            We're glad you're contributing to the community. If you haven't already, please check out our CONTRIBUTING.md guide in the repo root for tips on how to get involved.
 
             Happy vibe coding!
           pr-message: |
             Welcome to the Vibe Coding Skills Guild! Thanks for opening your first pull request here.
 
-            We appreciate your contribution! If you haven't already, please review our [CONTRIBUTING.md](../CONTRIBUTING.md) guide to make sure everything is in order.
+            We appreciate your contribution! If you haven't already, please review our CONTRIBUTING.md guide in the repo root to make sure everything is in order.
 
             Happy vibe coding!

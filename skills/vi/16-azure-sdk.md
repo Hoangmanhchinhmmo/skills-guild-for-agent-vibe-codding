@@ -1,9 +1,9 @@
 # 16 — Azure SDK Collection (~116 skills)
 
-> Tat ca Azure SDK skills yeu cau Azure credentials. Cau hinh `azure-identity-*` truoc.
+> Tất cả Azure SDK skills yêu cầu Azure credentials. Cấu hình `azure-identity-*` trước.
 
 ## AI Services
-| Skill | Ngon ngu |
+| Skill | Ngôn ngữ |
 |-------|----------|
 | `azure-ai-agents-persistent-dotnet` | .NET |
 | `azure-ai-agents-persistent-java` | Java |
@@ -37,7 +37,7 @@
 | `agent-framework-azure-ai-py` | Python |
 
 ## Identity / Auth
-| Skill | Ngon ngu |
+| Skill | Ngôn ngữ |
 |-------|----------|
 | `azure-identity-dotnet` | .NET |
 | `azure-identity-java` | Java |
@@ -46,7 +46,7 @@
 | `azure-identity-ts` | TypeScript |
 
 ## Storage
-| Skill | Ngon ngu |
+| Skill | Ngôn ngữ |
 |-------|----------|
 | `azure-storage-blob-java` | Java |
 | `azure-storage-blob-py` | Python |
@@ -59,7 +59,7 @@
 | `azure-storage-queue-ts` | TypeScript |
 
 ## Messaging
-| Skill | Ngon ngu |
+| Skill | Ngôn ngữ |
 |-------|----------|
 | `azure-servicebus-dotnet` | .NET |
 | `azure-servicebus-py` | Python |
@@ -77,7 +77,7 @@
 | `azure-messaging-webpubsubservice-py` | Python |
 
 ## Databases
-| Skill | Ngon ngu |
+| Skill | Ngôn ngữ |
 |-------|----------|
 | `azure-cosmos-db-py` | Python |
 | `azure-cosmos-java` | Java |
@@ -92,7 +92,7 @@
 | `azure-postgres-ts` | TypeScript |
 
 ## Key Vault
-| Skill | Ngon ngu |
+| Skill | Ngôn ngữ |
 |-------|----------|
 | `azure-keyvault-py` | Python |
 | `azure-keyvault-certificates-rust` | Rust |
@@ -105,7 +105,7 @@
 | `azure-security-keyvault-secrets-java` | Java |
 
 ## Monitoring
-| Skill | Ngon ngu |
+| Skill | Ngôn ngữ |
 |-------|----------|
 | `azure-monitor-ingestion-java` | Java |
 | `azure-monitor-ingestion-py` | Python |
@@ -117,14 +117,14 @@
 | `azure-monitor-query-py` | Python |
 
 ## App Configuration
-| Skill | Ngon ngu |
+| Skill | Ngôn ngữ |
 |-------|----------|
 | `azure-appconfiguration-java` | Java |
 | `azure-appconfiguration-py` | Python |
 | `azure-appconfiguration-ts` | TypeScript |
 
 ## Communication
-| Skill | Ngon ngu |
+| Skill | Ngôn ngữ |
 |-------|----------|
 | `azure-communication-callautomation-java` | Java |
 | `azure-communication-callingserver-java` | Java |
@@ -134,7 +134,7 @@
 | `azure-speech-to-text-rest-py` | Python |
 
 ## Management / ARM
-| Skill | Ngon ngu |
+| Skill | Ngôn ngữ |
 |-------|----------|
 | `azure-mgmt-apicenter-dotnet` | .NET |
 | `azure-mgmt-apicenter-py` | Python |
@@ -157,7 +157,7 @@
 | `azure-resource-manager-sql-dotnet` | .NET |
 
 ## Other Azure
-| Skill | Ngon ngu |
+| Skill | Ngôn ngữ |
 |-------|----------|
 | `azure-functions` | Multi |
 | `azure-containerregistry-py` | Python |
@@ -167,8 +167,12 @@
 | `microsoft-azure-webjobs-extensions-authentication-events-dotnet` | .NET |
 
 ## M365 Agents
-| Skill | Ngon ngu |
+| Skill | Ngôn ngữ |
 |-------|----------|
 | `m365-agents-dotnet` | .NET |
 | `m365-agents-py` | Python |
 | `m365-agents-ts` | TypeScript |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

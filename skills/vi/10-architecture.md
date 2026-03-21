@@ -1,7 +1,7 @@
 # 10 — Architecture & Design Patterns
 
 ## Software Architecture
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `architecture` | Architectural decisions | [CORE] |
 | `architect-review` | Architecture review | [CORE] |
@@ -11,7 +11,7 @@
 | `application-performance-performance-optimization` | App performance | [SPEC] |
 
 ## Domain-Driven Design
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `domain-driven-design` | DDD routing | [SPEC] |
 | `ddd-strategic-design` | Subdomains, contexts | [SPEC] |
@@ -19,7 +19,7 @@
 | `ddd-context-mapping` | Context relationships | [SPEC] |
 
 ## Clean Code & Refactoring
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `clean-code` | Clean Code principles | [CORE] |
 | `code-refactoring-refactor-clean` | Code refactoring | [SPEC] |
@@ -36,7 +36,7 @@
 | `dependency-upgrade` | Major version upgrades | [SPEC] |
 
 ## C4 Architecture
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `c4-architecture-c4-architecture` | Full C4 docs | [SPEC] |
 | `c4-context` | C4 Context level | [SPEC] |
@@ -45,16 +45,20 @@
 | `c4-code` | C4 Code level | [SPEC] |
 
 ## Coding Standards
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `cc-skill-coding-standards` | Universal standards | [SPEC] |
 | `cc-skill-project-guidelines-example` | Project guidelines | [SPEC] |
 
 ## Accessibility
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `accessibility-compliance-accessibility-audit` | WCAG audit | [SPEC] |
 | `wcag-audit-patterns` | WCAG 2.2 | [SPEC] |
 | `screen-reader-testing` | Screen reader testing | [SPEC] |
 | `fixing-accessibility` | Fix HTML accessibility | [SPEC] |
 | `i18n-localization` | i18n patterns | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

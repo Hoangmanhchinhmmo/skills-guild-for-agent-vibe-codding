@@ -1,7 +1,7 @@
 # 20 — Specialized Industry Skills
 
 ## Odoo ERP (24 skills)
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `odoo-accounting-setup` | Odoo accounting config |
 | `odoo-automated-tests` | Odoo automated tests |
@@ -29,7 +29,7 @@
 | `odoo-xml-views-builder` | Odoo XML views |
 
 ## Health & Medical
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `claude-ally-health` | Health assistant |
 | `ai-analyzer` | Health data analysis |
@@ -57,7 +57,7 @@
 | `fda-medtech-compliance-auditor` | FDA medtech compliance |
 
 ## Supply Chain & Logistics
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `carrier-relationship-management` | Carrier management |
 | `customs-trade-compliance` | Customs compliance |
@@ -70,7 +70,7 @@
 | `supply-chain-risk-auditor` | Supply chain risks |
 
 ## HR & Legal
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `hr-pro` | HR hiring, onboarding |
 | `legal-advisor` | Privacy policies, ToS |
@@ -80,7 +80,7 @@
 | `sred-work-summary` | SR&ED work summary |
 
 ## WordPress
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `wordpress` | WordPress full workflow |
 | `wordpress-plugin-development` | WP plugins |
@@ -88,7 +88,7 @@
 | `wordpress-woocommerce-development` | WooCommerce |
 
 ## Apify Scraping Suite
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `apify-actor-development` | Apify Actors |
 | `apify-actorization` | Convert to Actors |
@@ -103,7 +103,7 @@
 | `apify-trend-analysis` | Trend analysis |
 
 ## Hugging Face
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `hugging-face-cli` | HF Hub CLI |
 | `hugging-face-jobs` | HF remote jobs |
@@ -115,7 +115,7 @@
 | `hugging-face-tool-builder` | HF tool building |
 
 ## Leilao (PT-BR Auction)
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `leiloeiro-ia` | Leiloes judiciais |
 | `leiloeiro-avaliacao` | Avaliacao pericial |
@@ -126,14 +126,14 @@
 | `junta-leiloeiros` | Dados de leiloeiros |
 
 ## Browser Extensions
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `browser-extension-builder` | Browser extensions |
 | `chrome-extension-developer` | Chrome Manifest V3 |
 | `claude-in-chrome-troubleshooting` | Chrome MCP debug |
 
 ## Voice & Chat
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `voice-agents` | Voice AI agents |
 | `voice-ai-development` | Voice AI apps |
@@ -143,7 +143,7 @@
 | `daily` | Daily video/audio SDK |
 
 ## MCP & Tools
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `mcp-builder` | MCP server creation |
 | `mcp-builder-ms` | MCP server MS guide |
@@ -151,13 +151,17 @@
 | `tool-use-guardian` | Tool-call reliability |
 
 ## Sankhya / Regional
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `sankhya-dashboard-html-jsp-custom-best-pratices` | Sankhya dashboards |
 | `pakistan-payments-stack` | Pakistan payments |
 
 ## Rails
-| Skill | Mo ta |
+| Skill | Mô tả |
 |-------|-------|
 | `new-rails-project` | New Rails project |
 | `skill-rails-upgrade` | Rails upgrade |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

@@ -1,5 +1,5 @@
 # AI, Agent, LLM, RAG, Prompt & Context
-> 80 skills | Build intelligent agents, craft prompts, manage context, and implement RAG systems
+> 84 skills | Build intelligent agents, craft prompts, manage context, and implement RAG systems
 
 ## Agent Architecture & Development
 | Skill | What it does | Level |
@@ -152,6 +152,10 @@
 **Combine with:** `deep-research` > `writing-plans` > `executing-plans`
 **Example prompt:** > /deep-research Compare the top 5 headless CMS options for a Next.js blog — pricing, features, developer experience, and which is best for a solo developer
 **Don't use when:** You need a quick factual answer from a single source — use `search-specialist` for fast lookups
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)
 
 ### `search-specialist`
 **What you need:** Finds specific information on the web quickly and accurately. It knows how to craft the right search queries, pick the best sources, and pull out exactly what you need without the noise.

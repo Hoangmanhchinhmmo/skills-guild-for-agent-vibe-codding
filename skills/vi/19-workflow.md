@@ -1,7 +1,7 @@
 # 19 — Planning, Workflow & Project Management
 
 ## Planning & Execution
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `brainstorming` | Creative brainstorming | [CORE] |
 | `plan-writing` | Structured task planning | [CORE] |
@@ -15,7 +15,7 @@
 | `progressive-estimation` | AI-assisted estimation | [SPEC] |
 
 ## Conductor System
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `conductor-setup` | Initialize Conductor | [SPEC] |
 | `conductor-new-track` | Create new track | [SPEC] |
@@ -28,7 +28,7 @@
 | `workflow-patterns` | Conductor patterns | [SPEC] |
 
 ## Delivery Workflows
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `acceptance-orchestrator` | E2E task orchestration | [SPEC] |
 | `closed-loop-delivery` | Delivery against spec | [SPEC] |
@@ -38,7 +38,7 @@
 | `project-development` | Project development | [SPEC] |
 
 ## Research & Search
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `deep-research` | Multi-step research | [CORE] |
 | `search-specialist` | Advanced web search | [CORE] |
@@ -52,7 +52,7 @@
 | `maxia` | MAXIA AI marketplace | [SPEC] |
 
 ## Business Analysis
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `business-analyst` | AI business analysis | [SPEC] |
 | `startup-analyst` | Startup market analysis | [SPEC] |
@@ -68,7 +68,7 @@
 | `team-composition-analysis` | Team analysis | [SPEC] |
 
 ## Finance & Trading
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `quant-analyst` | Financial models | [SPEC] |
 | `risk-manager` | Portfolio risk | [SPEC] |
@@ -77,8 +77,12 @@
 | `alpha-vantage` | Financial market data | [SPEC] |
 
 ## Behavioral & Modes
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `behavioral-modes` | AI operational modes | [SPEC] |
 | `bdi-mental-states` | Mental state modeling | [SPEC] |
 | `kaizen` | Continuous improvement | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

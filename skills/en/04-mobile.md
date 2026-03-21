@@ -1,5 +1,5 @@
 # Mobile Development
-> 38 skills | Build native and cross-platform mobile apps for iOS, Android, and beyond
+> 37 skills | Build native and cross-platform mobile apps for iOS, Android, and beyond
 
 ## General
 | Skill | What it does | Level |
@@ -85,3 +85,7 @@
 **Combine with:** `mobile-design` > `mobile-developer` > `expo-deployment` > `app-store-optimization`
 **Example prompt:** > /mobile-developer Build a cross-platform fitness tracker app with React Native that tracks daily steps and shows weekly progress charts
 **Don't use when:** You only need to build for one platform -- use `ios-developer` for Swift/SwiftUI or `android-jetpack-compose-expert` for Android-only apps
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

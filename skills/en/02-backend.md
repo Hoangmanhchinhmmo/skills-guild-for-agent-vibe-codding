@@ -1,5 +1,5 @@
 # Backend Development
-> 86 skills | Build APIs, services, and server-side systems across languages and platforms
+> 77 skills | Build APIs, services, and server-side systems across languages and platforms
 
 ## Architecture & Patterns
 | Skill | What it does | Level |
@@ -165,3 +165,7 @@
 **Combine with:** `backend-architect` > `nodejs-backend-patterns` > `auth-implementation-patterns` > `docker-compose`
 **Example prompt:** > /nodejs-backend-patterns Build an Express API with TypeScript, Zod validation, structured error handling, and PostgreSQL using Prisma
 **Don't use when:** You want a Python backend — use `fastapi-pro` or `django-pro` instead
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)

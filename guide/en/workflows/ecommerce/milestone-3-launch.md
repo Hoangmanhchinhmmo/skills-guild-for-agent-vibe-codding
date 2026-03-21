@@ -1,6 +1,6 @@
 # Milestone 3: Launch — SEO, Mobile, Docker, Deploy & Security
 
-> **Prerequisites:** You completed [Milestone 1](milestone-1-foundation.md) (Next.js storefront, Express API, MongoDB, auth) and [Milestone 2](milestone-2-features.md) (3 payment gateways, reviews, admin dashboard, email notifications). Your store is feature-complete. Time to ship it.
+> **Prerequisites:** You completed [Milestone 1](milestone-1-mvp.md) (Next.js storefront, Express API, MongoDB, Stripe checkout) and [Milestone 2](milestone-2-features.md) (auth, 3 payment gateways, reviews, admin dashboard, email notifications). Your store is feature-complete. Time to ship it.
 
 This milestone takes your working e-commerce store and makes it production-ready. You will optimize for search engines, lock down the mobile experience, containerize the backend, deploy the full stack, and run a security audit before going live.
 
@@ -202,7 +202,8 @@ This milestone takes your working e-commerce store and makes it production-ready
 >    NODE_ENV=production
 >    PORT=5000
 >    MONGODB_URI=mongodb://mongodb:27017/ecommerce
->    JWT_SECRET=your-secret-here
+>    CLERK_SECRET_KEY=sk_test_xxx
+>    CLERK_WEBHOOK_SECRET=whsec_xxx
 >    STRIPE_SECRET_KEY=sk_test_xxx
 >    PAYPAL_CLIENT_ID=xxx
 >    PAYPAL_CLIENT_SECRET=xxx
@@ -261,7 +262,7 @@ This milestone takes your working e-commerce store and makes it production-ready
 > - Configure the Railway project to build from the `server/` directory using the existing Dockerfile.
 > - Set all environment variables in Railway's dashboard:
 >   - `MONGODB_URI` = Atlas connection string from Step 1
->   - `JWT_SECRET` = a strong random string (generate one with `openssl rand -hex 32`)
+>   - `CLERK_SECRET_KEY` = your Clerk secret key from the Clerk Dashboard
 >   - `NODE_ENV` = production
 >   - `PORT` = 5000 (or let Railway assign one via `$PORT`)
 >   - `STRIPE_SECRET_KEY`, `PAYPAL_CLIENT_ID`, `PAYPAL_CLIENT_SECRET` = production keys
@@ -344,7 +345,7 @@ This milestone takes your working e-commerce store and makes it production-ready
 **Prompt to use:**
 > /security-audit
 >
-> Perform a comprehensive security audit and hardening of my Node.js/Express e-commerce API. This application handles user authentication (JWT), stores customer data (names, emails, addresses), and processes payments through Stripe, PayPal, and cash-on-delivery. The database is MongoDB via Mongoose. The frontend is a Next.js app on a separate domain.
+> Perform a comprehensive security audit and hardening of my Node.js/Express e-commerce API. This application handles user authentication (Clerk), stores customer data (names, emails, addresses), and processes payments through Stripe, VNPay, and PayPal. The database is MongoDB via Mongoose. The frontend is a Next.js app on a separate domain.
 >
 > Implement ALL of the following security measures:
 >
@@ -405,13 +406,11 @@ This milestone takes your working e-commerce store and makes it production-ready
 >   ```
 > - Remove any `cors({ origin: '*' })` or `cors()` with no options.
 >
-> **6. Authentication & JWT Security**
-> - Ensure JWT secret is at least 32 characters (validate at startup, refuse to start if too short).
-> - Set JWT expiration to 1 hour for access tokens.
-> - Implement refresh tokens (7-day expiry, stored in httpOnly cookie, rotated on use).
-> - Add `httpOnly`, `secure`, `sameSite: 'strict'` flags to all cookies.
-> - Implement token blacklisting on logout (store invalidated tokens in Redis or a MongoDB collection with TTL index).
-> - Hash passwords with bcrypt (cost factor 12, verify this is already the case).
+> **6. Authentication & Clerk Security**
+> - Verify Clerk webhook signatures on all incoming webhook endpoints using the `svix` library and `CLERK_WEBHOOK_SECRET` — reject any request with an invalid signature.
+> - Ensure Clerk API keys are properly managed: `CLERK_SECRET_KEY` must only exist in server-side environment variables, never exposed to the client or committed to source code.
+> - Validate Clerk session tokens on every protected API route using `@clerk/express` middleware — verify tokens are not expired and belong to an active user.
+> - Enforce publishable key vs secret key separation: `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` for the frontend, `CLERK_SECRET_KEY` for the backend only. Audit code to confirm no secret key usage in client-side code.
 >
 > **7. API Key and Secret Management**
 > - Audit all environment variables — no secrets hardcoded in source code.
@@ -456,7 +455,7 @@ This milestone takes your working e-commerce store and makes it production-ready
 - [ ] Send `{"email": {"$gt": ""}, "password": "test"}` to login endpoint — should fail with validation error, not return all users
 - [ ] `npm audit` shows 0 critical and 0 high vulnerabilities
 - [ ] Stripe webhook endpoint rejects requests without a valid `stripe-signature` header
-- [ ] Server refuses to start if `JWT_SECRET` is missing or shorter than 32 characters
+- [ ] Server refuses to start if `CLERK_SECRET_KEY` is missing from environment variables
 - [ ] Failed login attempts appear in server logs with IP and timestamp
 - [ ] `curl http://your-api.up.railway.app/anything` in production redirects to `https://`
 
@@ -464,7 +463,7 @@ This milestone takes your working e-commerce store and makes it production-ready
 - Rate limiter blocks legitimate users in development → The rate limits above are for production. In development, increase the limits or disable rate limiting when `NODE_ENV === 'development'`.
 - `express-mongo-sanitize` breaks legitimate queries → If any of your features use `$` operators in user-facing queries (e.g., price range filters with `$gte`/`$lte`), sanitize those routes individually rather than globally, or construct the query operators server-side from plain number inputs.
 - Helmet CSP blocks your frontend → Since your frontend is on a separate domain, you might not need CSP on the API. If API routes return HTML (like email previews), adjust the `connectSrc` and `scriptSrc` directives.
-- JWT refresh token rotation causes logouts → Make sure the refresh token endpoint returns a new refresh token AND a new access token. The client must store and use the new refresh token immediately.
+- Clerk session tokens rejected on API → Make sure `@clerk/express` middleware is configured with the correct `CLERK_SECRET_KEY` and the frontend sends the session token via `getToken()` from `useAuth()` in the Authorization header.
 - `trust proxy` not working → Railway and Render set `X-Forwarded-Proto`. Make sure `app.set('trust proxy', 1)` is called before any middleware that checks the protocol.
 - `express-validator` errors not showing up → Make sure the validation middleware array comes before the route handler in the route definition: `router.post('/login', [validations], validate, loginController)`.
 
@@ -477,9 +476,9 @@ Congratulations! You have built and deployed a production-ready e-commerce store
 Here is everything your store includes:
 
 - **Full product catalog** with categories, search, and filtering
-- **User authentication** with registration, login, JWT tokens, and refresh tokens
+- **User authentication** with registration, login, and OAuth via Clerk
 - **Shopping cart** with persistent state and quantity management
-- **Three payment methods**: Stripe (cards), PayPal, and Cash on Delivery
+- **Three payment methods**: Stripe (cards), VNPay, and PayPal
 - **Order management** with status tracking and order history
 - **Product reviews and ratings** with verified purchase badges
 - **Admin dashboard** for managing products, orders, and users
@@ -489,7 +488,7 @@ Here is everything your store includes:
 
 **Tech stack:** Next.js (App Router) + Tailwind CSS | Express.js + Mongoose | MongoDB Atlas | Docker | Vercel + Railway
 
-**Payment processing:** Stripe + PayPal + Cash on Delivery
+**Payment processing:** Stripe + VNPay + PayPal
 
 ### What's Next?
 
@@ -500,27 +499,27 @@ Your store is live, but there is always room to grow. Here are skills to explore
 - Improve conversion rates with A/B testing using `/page-cro`
 - Scale the backend with `/microservices-patterns` when traffic grows
 - Add more products and optimize listings with `/seo-content-writer` + `/social-content`
-- Set up CI/CD pipelines with `/ci-cd-pipelines`
-- Add real-time features (live chat, inventory updates) with `/websocket-guide`
+- Set up CI/CD pipelines with `/github-actions-templates`
 
 ### Skills Used in This Workflow
 
 | Skill | Phase | Purpose |
 |-------|-------|---------|
-| `nextjs-developer` | 1.1 | Next.js storefront setup |
-| `api-developer` | 1.2 | Express API and REST endpoints |
-| `mongodb-expert` | 1.3 | Database schemas and queries |
-| `auth-specialist` | 1.4 | JWT authentication and registration |
-| `tailwind-patterns` | 1.5, 3.2 | UI styling and responsive design |
-| `stripe-integration` | 2.1 | Stripe payment processing |
-| `paypal-integration` | 2.2 | PayPal payment processing |
-| `api-developer` | 2.3 | Cash-on-delivery order flow |
-| `review-system` | 2.4 | Product reviews and ratings |
-| `admin-dashboard` | 2.5 | Admin panel for store management |
-| `email-notifications` | 2.6 | Transactional email system |
-| `seo-fundamentals` | 3.1 | Meta tags and sitemap |
-| `schema-markup` | 3.1 | JSON-LD structured data |
-| `mobile-design` | 3.2 | Mobile-first responsive design |
+| `blueprint`, `writing-plans` | 1.1 | Project scaffolding and planning |
+| `database-design` | 1.2 | MongoDB schema design |
+| `nodejs-backend-patterns`, `api-endpoint-builder` | 1.3 | Express API and REST endpoints |
+| `react-nextjs-development`, `tailwind-patterns` | 1.4 | Storefront UI and styling |
+| `react-nextjs-development`, `react-state-management` | 1.5 | Shopping cart with persistent state |
+| `stripe-integration` | 1.6 | Stripe checkout integration |
+| `auth-implementation-patterns`, `clerk-auth` | 2.1 | Clerk authentication and OAuth |
+| `nodejs-backend-patterns` | 2.2 | Order management system |
+| `react-nextjs-development`, `tailwind-patterns` | 2.3 | Admin dashboard UI |
+| `nodejs-backend-patterns` | 2.4 | Coupon and discount system |
+| `nodejs-backend-patterns`, `react-nextjs-development` | 2.5 | Product reviews and ratings |
+| `payment-integration`, `paypal-integration` | 2.6 | VNPay and PayPal payments |
+| `email-systems` | 2.7 | Transactional email notifications |
+| `seo-fundamentals`, `schema-markup` | 3.1 | SEO, meta tags, and JSON-LD |
+| `tailwind-patterns`, `mobile-design` | 3.2 | Mobile-first responsive design |
 | `docker-expert` | 3.3 | Backend containerization |
 | `vercel-deployment` | 3.4 | Production deployment |
 | `security-audit` | 3.5 | Security hardening |

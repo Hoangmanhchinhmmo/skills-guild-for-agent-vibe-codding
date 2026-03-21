@@ -18,10 +18,20 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: "--verbose --no-progress '**/*.md'"
+          output: ./lychee/out.md
           fail: true
 
-      - name: Create issue on broken links
+      - name: Check for existing issue
         if: failure()
+        id: check
+        run: |
+          EXISTING=$(gh issue list --label bug --search "Broken links detected" --state open --json number --jq length)
+          echo "exists=$EXISTING" >> $GITHUB_OUTPUT
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create issue on broken links
+        if: failure() && steps.check.outputs.exists == '0'
         uses: actions/github-script@v7
         with:
           script: |

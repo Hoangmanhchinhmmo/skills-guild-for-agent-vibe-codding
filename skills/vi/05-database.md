@@ -1,7 +1,7 @@
 # 05 — Database & Data Engineering
 
 ## Database Design & Admin
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `database` | Database dev + operations | [CORE] |
 | `database-design` | Schema, normalization | [CORE] |
@@ -14,7 +14,7 @@
 | `database-migrations-migration-observability` | Migration monitoring | [SPEC] |
 
 ## PostgreSQL
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `postgresql` | PostgreSQL schema | [CORE] |
 | `postgresql-optimization` | Query tuning | [SPEC] |
@@ -24,7 +24,7 @@
 | `claimable-postgres` | Temp Postgres instances | [SPEC] |
 
 ## SQL & NoSQL
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `sql-pro` | Modern SQL cloud-native | [CORE] |
 | `sql-optimization-patterns` | Query optimization | [SPEC] |
@@ -32,7 +32,7 @@
 | `cc-skill-clickhouse-io` | ClickHouse analytics | [SPEC] |
 
 ## Data Engineering
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `data-engineer` | Data pipelines, warehouses | [CORE] |
 | `data-engineering-data-pipeline` | Pipeline architecture | [SPEC] |
@@ -45,10 +45,14 @@
 | `airflow-dag-patterns` | Apache Airflow DAGs | [SPEC] |
 
 ## ML & Data Science
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `ml-engineer` | Production ML systems | [SPEC] |
 | `mlops-engineer` | ML pipelines, tracking | [SPEC] |
 | `ml-pipeline-workflow` | MLOps E2E | [SPEC] |
 | `machine-learning-ops-ml-pipeline` | ML pipeline design | [SPEC] |
 | `computer-vision-expert` | YOLO, detection, segmentation | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

@@ -1,5 +1,5 @@
 # CRM & SaaS Automation
-> 120 skills | Automate workflows across CRM, email, project management, and SaaS platforms via Composio MCP
+> 114 skills | Automate workflows across CRM, email, project management, and SaaS platforms via Composio MCP
 
 > **Note:** All [AUTO] skills require the Rube MCP (Composio) server.
 > Check: MCP server running + service accounts connected. If not, these skills CANNOT be used.
@@ -193,3 +193,7 @@
 **Combine with:** `supabase-automation` > `nextjs-supabase-auth` > `postgresql` > `stripe-integration`
 **Example prompt:** > /supabase-automation Set up a Supabase project with a users table, a posts table with row-level security, email/password auth, and an edge function that sends a welcome email on signup
 **Don't use when:** You need a NoSQL or document database -- use `firebase` instead, or use `database` for general database work
+
+---
+
+[Back to All Categories](../../README.md#categories) | [Skill Combos](../../guide/en/skill-combos.md) | [How to Choose](../../guide/en/how-to-choose-skills.md)
