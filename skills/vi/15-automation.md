@@ -1,10 +1,10 @@
 # 15 — CRM & SaaS Automation (Composio MCP)
 
-> **Luu y:** Tat ca skills [AUTO] yeu cau Rube MCP (Composio) server.
-> Kiem tra: MCP server chay + tai khoan dich vu da ket noi. Neu khong → KHONG the dung.
+> **Lưu ý:** Tất cả skills [AUTO] yêu cầu Rube MCP (Composio) server.
+> Kiểm tra: MCP server chạy + tài khoản dịch vụ đã kết nối. Nếu không → KHÔNG thể dùng.
 
 ## CRM
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `hubspot-automation` | HubSpot CRM | [AUTO] |
 | `hubspot-integration` | HubSpot integration | [AUTO] |
@@ -16,7 +16,7 @@
 | `segment-cdp` | Segment CDP | [SPEC] |
 
 ## Project Management
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `jira-automation` | Jira | [AUTO] |
 | `linear-automation` | Linear | [AUTO] |
@@ -31,7 +31,7 @@
 | `todoist-automation` | Todoist | [AUTO] |
 
 ## Communication
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `slack-automation` | Slack | [AUTO] |
 | `slack-bot-builder` | Slack bots (Bolt) | [SPEC] |
@@ -49,7 +49,7 @@
 | `outlook-calendar-automation` | Outlook Calendar | [AUTO] |
 
 ## Email Marketing
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `mailchimp-automation` | Mailchimp | [AUTO] |
 | `sendgrid-automation` | SendGrid | [AUTO] |
@@ -61,7 +61,7 @@
 | `email-systems` | Email systems general | [SPEC] |
 
 ## Cloud Storage
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `google-drive-automation` | Google Drive | [AUTO] |
 | `google-docs-automation` | Google Docs | [AUTO] |
@@ -74,7 +74,7 @@
 | `one-drive-automation` | OneDrive | [AUTO] |
 
 ## Dev Tools
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `github-automation` | GitHub | [AUTO] |
 | `gitlab-automation` | GitLab | [AUTO] |
@@ -87,7 +87,7 @@
 | `pagerduty-automation` | PagerDuty | [AUTO] |
 
 ## Analytics
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `google-analytics-automation` | Google Analytics | [AUTO] |
 | `amplitude-automation` | Amplitude | [AUTO] |
@@ -96,14 +96,14 @@
 | `segment-automation` | Segment | [AUTO] |
 
 ## Calendar & Scheduling
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `cal-com-automation` | Cal.com | [AUTO] |
 | `calendly-automation` | Calendly | [AUTO] |
 | `zoom-automation` | Zoom | [AUTO] |
 
 ## Productivity
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `notion-automation` | Notion | [AUTO] |
 | `notion-template-business` | Notion templates | [SPEC] |
@@ -116,7 +116,7 @@
 | `notebooklm` | Google NotebookLM | [SPEC] |
 
 ## E-commerce
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `shopify-automation` | Shopify | [AUTO] |
 | `shopify-apps` | Shopify apps | [SPEC] |
@@ -126,7 +126,7 @@
 | `webflow-automation` | Webflow | [AUTO] |
 
 ## Social Media
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `twitter-automation` | Twitter/X | [AUTO] |
 | `x-twitter-scraper` | X data scraping | [SPEC] |
@@ -141,7 +141,7 @@
 | `social-orchestrator` | Social channels unified | [SPEC] |
 
 ## Customer Support
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `freshdesk-automation` | Freshdesk | [AUTO] |
 | `freshservice-automation` | Freshservice | [AUTO] |
@@ -150,13 +150,13 @@
 | `customer-support` | AI customer support | [SPEC] |
 
 ## HR & Legal
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `bamboohr-automation` | BambooHR | [AUTO] |
 | `docusign-automation` | DocuSign | [AUTO] |
 
 ## WhatsApp
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `whatsapp-automation` | WhatsApp Business | [AUTO] |
 | `whatsapp-cloud-api` | WhatsApp Cloud API | [SPEC] |
@@ -164,7 +164,7 @@
 | `observe-whatsapp` | WhatsApp troubleshoot | [SPEC] |
 
 ## Workflow Platforms
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `make-automation` | Make (Integromat) | [AUTO] |
 | `zapier-make-patterns` | Zapier + Make | [SPEC] |
@@ -176,3 +176,7 @@
 | `n8n-validation-expert` | n8n validation | [SPEC] |
 | `n8n-workflow-patterns` | n8n patterns | [SPEC] |
 | `workflow-automation` | Workflow automation | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

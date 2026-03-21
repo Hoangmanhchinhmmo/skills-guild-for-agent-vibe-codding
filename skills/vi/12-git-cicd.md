@@ -1,7 +1,7 @@
 # 12 — Git, CI/CD & Build Tools
 
 ## Git Workflows
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `commit` | Sentry commit conventions | [CORE] |
 | `create-pr` | Sentry PR conventions | [CORE] |
@@ -20,7 +20,7 @@
 | `changelog-automation` | Auto changelog | [SPEC] |
 
 ## GitHub
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `github-actions-templates` | GH Actions workflows | [CORE] |
 | `github-workflow-automation` | GH workflow AI | [SPEC] |
@@ -31,14 +31,14 @@
 | `openclaw-github-repo-commander` | 7-stage repo workflow | [SPEC] |
 
 ## CI/CD
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `gitlab-ci-patterns` | GitLab CI/CD | [SPEC] |
 | `cicd-automation-workflow-automate` | Workflow automation | [SPEC] |
 | `deployment-pipeline-design` | Multi-stage pipelines | [SPEC] |
 
 ## Build Tools & Monorepo
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `monorepo-architect` | Monorepo architecture | [SPEC] |
 | `monorepo-management` | Turborepo, Nx, pnpm | [SPEC] |
@@ -46,3 +46,7 @@
 | `nx-workspace-patterns` | Nx workspace | [SPEC] |
 | `bazel-build-optimization` | Bazel builds | [SPEC] |
 | `build` | Build skill | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

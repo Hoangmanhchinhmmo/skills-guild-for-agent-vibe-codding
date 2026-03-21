@@ -1,7 +1,7 @@
 # 18 — Game Development & Blockchain
 
 ## Game Development
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `game-development` | Game dev orchestrator | [CORE] |
 | `unity-developer` | Unity C# | [SPEC] |
@@ -13,7 +13,7 @@
 | `minecraft-bukkit-pro` | Minecraft Bukkit | [SPEC] |
 
 ## Blockchain & Web3
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `blockchain-developer` | Web3 apps | [SPEC] |
 | `solidity-security` | Smart contract security | [SEC] |
@@ -25,8 +25,12 @@
 | `goldrush-api` | Blockchain data 100+ chains | [SPEC] |
 
 ## Lightning Network
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `lightning-architecture-review` | Lightning protocol | [SPEC] |
 | `lightning-channel-factories` | Channel factories | [SPEC] |
 | `lightning-factory-explainer` | Factory explainer | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

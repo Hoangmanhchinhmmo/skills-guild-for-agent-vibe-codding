@@ -1,7 +1,7 @@
 # 21 — Meta-Skills, Personas & System Tools
 
 ## Skill Management
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `skill-creator` | Create new skills | [SPEC] |
 | `skill-creator-ms` | Create skills MS guide | [SPEC] |
@@ -18,7 +18,7 @@
 | `claude-settings-audit` | Generate Claude settings | [SPEC] |
 
 ## AI Personas (Simulation Agents)
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `andrej-karpathy` | Simula Andrej Karpathy | [SPEC] |
 | `bill-gates` | Simula Bill Gates | [SPEC] |
@@ -36,7 +36,7 @@
 | `explain-like-socrates` | Socratic explanations | [SPEC] |
 
 ## Content & Writing
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `beautiful-prose` | Hard-edged writing | [SPEC] |
 | `copy-editing` | Edit/improve writing | [SPEC] |
@@ -48,7 +48,7 @@
 | `kaigai-script-writer` | Japanese YouTube scripts | [SPEC] |
 
 ## System & Config
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `claude-speed-reader` | RSVP speed reader | [SPEC] |
 | `speed` | Launch RSVP reader | [SPEC] |
@@ -61,7 +61,7 @@
 | `superpowers-lab` | Lab environment | [SPEC] |
 
 ## Andruia System (PT-BR)
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `00-andruia-consultant` | Andruia architect | [SPEC] |
 | `10-andruia-skill-smith` | Andruia skill engineer | [SPEC] |
@@ -77,7 +77,7 @@
 | `social-orchestrator` | Social channels | [SPEC] |
 
 ## Startup & SaaS
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `micro-saas-launcher` | Launch micro-SaaS | [SPEC] |
 | `saas-mvp-launcher` | SaaS MVP launcher | [SPEC] |
@@ -87,7 +87,7 @@
 | `loki-mode` | Multi-agent startup | [SPEC] |
 
 ## Compliance & Governance
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `yes-md` | 6-layer AI governance | [SPEC] |
 | `lex` | Cross-validation truth | [SPEC] |
@@ -96,18 +96,18 @@
 | `diary` | Context diary system | [SPEC] |
 
 ## PT-BR Legal
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `advogado-criminal` | Advogado criminal | [SPEC] |
 | `advogado-especialista` | Advogado especialista | [SPEC] |
 
 ## Obsidian
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `obsidian-clipper-template-creator` | Obsidian templates | [SPEC] |
 
 ## Misc Tools
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `vexor` | Semantic file search | [SPEC] |
 | `vexor-cli` | Vexor CLI | [SPEC] |
@@ -118,3 +118,7 @@
 | `fixing-motion-performance` | Fix animation perf | [SPEC] |
 | `cc-skill-continuous-learning` | Continuous learning | [SPEC] |
 | `cc-skill-strategic-compact` | Strategic compact | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

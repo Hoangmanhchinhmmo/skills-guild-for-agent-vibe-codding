@@ -1,7 +1,7 @@
 # 06 — DevOps & Cloud Infrastructure
 
 ## Docker & Containers
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `docker-expert` | Docker containerization | [CORE] |
 | `kubernetes-architect` | K8s cloud-native | [CORE] |
@@ -12,7 +12,7 @@
 | `devcontainer-setup` | Devcontainers + Claude | [SPEC] |
 
 ## Cloud Platforms
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `cloud-architect` | AWS/Azure/GCP multi-cloud | [CORE] |
 | `cloud-devops` | Cloud infra + DevOps | [CORE] |
@@ -26,7 +26,7 @@
 | `cost-optimization` | Cloud cost rightsizing | [SPEC] |
 
 ## Terraform & IaC
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `terraform-skill` | Terraform best practices | [CORE] |
 | `terraform-specialist` | Terraform/OpenTofu | [SPEC] |
@@ -37,7 +37,7 @@
 | `cloudformation-best-practices` | CloudFormation | [SPEC] |
 
 ## Service Mesh
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `service-mesh-expert` | Istio, Linkerd, Consul | [SPEC] |
 | `service-mesh-observability` | Mesh observability | [SPEC] |
@@ -46,7 +46,7 @@
 | `mtls-configuration` | mTLS zero-trust | [SEC] |
 
 ## Deployment
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `server-management` | Server processes | [CORE] |
 | `deployment-engineer` | CI/CD deployment | [SPEC] |
@@ -62,7 +62,7 @@
 | `devops-troubleshooter` | Incident troubleshooting | [SPEC] |
 
 ## Linux & OS
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `linux-troubleshooting` | Linux diagnostics | [SPEC] |
 | `os-scripting` | OS shell troubleshooting | [SPEC] |
@@ -70,7 +70,11 @@
 | `speckit-updater` | SpecKit safe update | [SPEC] |
 
 ## Network
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `network-engineer` | Cloud networking | [SPEC] |
 | `network-101` | Network setup basics | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

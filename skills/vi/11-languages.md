@@ -1,9 +1,9 @@
 # 11 — Programming Languages & Shell
 
 ## Python
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
-| `python-pro` | Python 3.12+ nang cao | [CORE] |
+| `python-pro` | Python 3.12+ nâng cao | [CORE] |
 | `python-patterns` | Python principles | [CORE] |
 | `python-performance-optimization` | Profiling | [SPEC] |
 | `python-packaging` | Python packages | [SPEC] |
@@ -13,38 +13,38 @@
 | `pydantic-models-py` | Pydantic models | [SPEC] |
 
 ## JavaScript / TypeScript
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `javascript-pro` | Modern JS ES6+ | [CORE] |
 | `javascript-mastery` | JS 33+ topics | [CORE] |
 | `modern-javascript-patterns` | ES6+ features | [SPEC] |
-| `typescript-pro` | TypeScript nang cao | [CORE] |
+| `typescript-pro` | TypeScript nâng cao | [CORE] |
 | `typescript-expert` | TS + JS expert | [CORE] |
 | `typescript-advanced-types` | Generics, utility | [SPEC] |
 | `javascript-typescript-typescript-scaffold` | TS scaffold | [SPEC] |
 
 ## Go
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `golang-pro` | Go 1.21+ | [SPEC] |
 | `go-concurrency-patterns` | Goroutines, channels | [SPEC] |
 
 ## Rust
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `rust-pro` | Rust 1.75+ | [SPEC] |
 | `rust-async-patterns` | Tokio async | [SPEC] |
 | `systems-programming-rust-project` | Rust project arch | [SPEC] |
 
 ## C / C++
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `c-pro` | C memory management | [SPEC] |
 | `cpp-pro` | Modern C++ RAII | [SPEC] |
 | `arm-cortex-expert` | Embedded ARM Cortex | [SPEC] |
 
 ## C# / Java / JVM
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `csharp-pro` | Modern C# records, LINQ | [SPEC] |
 | `java-pro` | Java 21+ virtual threads | [SPEC] |
@@ -52,16 +52,16 @@
 | `scala-pro` | Enterprise Scala | [SPEC] |
 
 ## Other Languages
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `ruby-pro` | Ruby metaprogramming | [SPEC] |
 | `elixir-pro` | Elixir OTP | [SPEC] |
 | `haskell-pro` | Haskell type system | [SPEC] |
 | `julia-pro` | Julia 1.10+ | [SPEC] |
-| `php-pro` | PHP nang cao | [SPEC] |
+| `php-pro` | PHP nâng cao | [SPEC] |
 
 ## Shell & Scripting
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `bash-pro` | Defensive Bash | [CORE] |
 | `bash-linux` | Bash/Linux patterns | [CORE] |
@@ -74,7 +74,7 @@
 | `busybox-on-windows` | BusyBox on Windows | [SPEC] |
 
 ## Scientific Python
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `matplotlib` | Matplotlib viz | [SPEC] |
 | `plotly` | Plotly interactive | [SPEC] |
@@ -91,7 +91,7 @@
 | `cirq` | Cirq quantum | [SPEC] |
 
 ## Makepad & Robius (Rust UI)
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `makepad-skills` | Makepad Rust UI overview | [SPEC] |
 | `makepad-basics` | Makepad getting started | [SPEC] |
@@ -115,8 +115,12 @@
 | `robius-widget-patterns` | Robius widgets | [SPEC] |
 
 ## Avalonia (.NET UI)
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `avalonia-layout-zafiro` | Avalonia layout | [SPEC] |
 | `avalonia-viewmodels-zafiro` | Avalonia ViewModels | [SPEC] |
 | `avalonia-zafiro-development` | Avalonia Zafiro dev | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

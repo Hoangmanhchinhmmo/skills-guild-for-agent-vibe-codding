@@ -1,7 +1,7 @@
 # 17 — Office, Media & Image Generation
 
 ## Office Documents
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `pdf` | PDF manipulation | [CORE] |
 | `pdf-official` | PDF official toolkit | [CORE] |
@@ -17,7 +17,7 @@
 | `latex-paper-conversion` | LaTeX paper conversion | [SPEC] |
 
 ## Image Generation
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `imagen` | Google Gemini images | [SPEC] |
 | `image-studio` | Image generator | [SPEC] |
@@ -35,7 +35,7 @@
 | `comfyui-gateway` | ComfyUI REST gateway | [SPEC] |
 
 ## Audio & Video
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `audio-transcriber` | Audio → Markdown | [SPEC] |
 | `podcast-generation` | AI podcast audio | [SPEC] |
@@ -45,10 +45,14 @@
 | `seek-and-analyze-video` | Video content analysis | [SPEC] |
 
 ## Scraping & Data
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `firecrawl-scraper` | Deep web scraping | [SPEC] |
 | `apify-ultimate-scraper` | Universal AI scraper | [SPEC] |
 | `web-scraper` | Web scraping multi-strategy | [SPEC] |
 | `go-playwright` | Go browser automation | [SPEC] |
 | `go-rod-master` | Go-rod browser automation | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

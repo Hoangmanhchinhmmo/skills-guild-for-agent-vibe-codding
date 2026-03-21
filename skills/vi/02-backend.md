@@ -1,7 +1,7 @@
 # 02 — Backend Development
 
 ## Architecture & Patterns
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `backend-architect` | Backend architecture | [CORE] |
 | `backend-dev-guidelines` | Node.js backend standards | [CORE] |
@@ -17,7 +17,7 @@
 | `cc-skill-backend-patterns` | Backend patterns collection | [SPEC] |
 
 ## Node.js / JavaScript Backend
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `nodejs-backend-patterns` | Express/Fastify production | [CORE] |
 | `nodejs-best-practices` | Node.js principles | [CORE] |
@@ -28,7 +28,7 @@
 | `trpc-fullstack` | tRPC type-safe APIs | [SPEC] |
 
 ## Python Backend
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `fastapi-pro` | FastAPI async APIs | [CORE] |
 | `fastapi-router-py` | FastAPI routers + CRUD | [SPEC] |
@@ -39,21 +39,21 @@
 | `django-access-review` | Django access review | [SPEC] |
 
 ## .NET Backend
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `dotnet-architect` | .NET architecture | [SPEC] |
 | `dotnet-backend` | ASP.NET Core 8+ | [SPEC] |
 | `dotnet-backend-patterns` | C#/.NET patterns | [SPEC] |
 
 ## PHP / Laravel
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `laravel-expert` | Laravel production | [SPEC] |
 | `laravel-security-audit` | Laravel security | [SEC] |
-| `php-pro` | PHP nang cao | [SPEC] |
+| `php-pro` | PHP nâng cao | [SPEC] |
 
 ## Go / Rust Backend
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `golang-pro` | Go 1.21+ | [SPEC] |
 | `go-concurrency-patterns` | Goroutines, channels | [SPEC] |
@@ -62,7 +62,7 @@
 | `rust-async-patterns` | Tokio async Rust | [SPEC] |
 
 ## Serverless & Edge
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `aws-serverless` | AWS Lambda | [SPEC] |
 | `azure-functions` | Azure Functions | [SPEC] |
@@ -76,27 +76,27 @@
 | `dbos-typescript` | DBOS TypeScript SDK | [SPEC] |
 
 ## Auth & Payment
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `auth-implementation-patterns` | Auth patterns | [CORE] |
 | `clerk-auth` | Clerk authentication | [SPEC] |
 | `payment-integration` | Stripe, PayPal | [SPEC] |
-| `stripe-integration` | Stripe chuyen sau | [SPEC] |
+| `stripe-integration` | Stripe chuyên sâu | [SPEC] |
 | `paypal-integration` | PayPal | [SPEC] |
 | `billing-automation` | Recurring billing | [SPEC] |
 | `plaid-fintech` | Plaid API fintech | [SPEC] |
 | `pakistan-payments-stack` | Pakistan payments | [SPEC] |
 
 ## GraphQL & APIs
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
-| `graphql` | GraphQL co ban | [CORE] |
+| `graphql` | GraphQL cơ bản | [CORE] |
 | `graphql-architect` | Federation, perf | [SPEC] |
 | `file-uploads` | File uploads + storage | [SPEC] |
 | `chat-widget` | Real-time chat system | [SPEC] |
 
 ## Workflow Engines
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `temporal-golang-pro` | Temporal + Go | [SPEC] |
 | `temporal-python-pro` | Temporal + Python | [SPEC] |
@@ -104,7 +104,7 @@
 | `workflow-orchestration-patterns` | Durable workflows | [SPEC] |
 
 ## Full-Stack
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `senior-fullstack` | Fullstack development | [SPEC] |
 | `full-stack-orchestration-full-stack-feature` | Full stack feature | [SPEC] |
@@ -116,7 +116,7 @@
 | `astro` | Astro content websites | [SPEC] |
 
 ## Misc Backend
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `api-endpoint-builder` | REST API endpoints | [SPEC] |
 | `app-builder` | App building orchestrator | [SPEC] |
@@ -124,3 +124,7 @@
 | `moodle-external-api-development` | Moodle APIs | [SPEC] |
 | `twilio-communications` | Twilio SMS/voice | [SPEC] |
 | `algolia-search` | Algolia search | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

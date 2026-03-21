@@ -1,9 +1,9 @@
 # 07 — Testing & Code Review
 
 ## Testing Frameworks
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
-| `testing-qa` | Testing + QA tong quat | [CORE] |
+| `testing-qa` | Testing + QA tổng quát | [CORE] |
 | `testing-patterns` | Jest patterns, mocking | [CORE] |
 | `test-automator` | AI-powered test automation | [CORE] |
 | `test-driven-development` | TDD workflow | [CORE] |
@@ -18,7 +18,7 @@
 | `pypict-skill` | Pairwise test generation | [SPEC] |
 
 ## E2E Testing
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `e2e-testing` | Playwright E2E | [CORE] |
 | `e2e-testing-patterns` | Playwright + Cypress | [SPEC] |
@@ -31,7 +31,7 @@
 | `screenshots` | Marketing screenshots | [SPEC] |
 
 ## Language-Specific Testing
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `javascript-testing-patterns` | Jest, Vitest | [SPEC] |
 | `python-testing-patterns` | pytest patterns | [SPEC] |
@@ -39,7 +39,7 @@
 | `web3-testing` | Smart contract testing | [SPEC] |
 
 ## Code Review
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `code-reviewer` | Elite code review | [CORE] |
 | `code-review-checklist` | Review checklist | [CORE] |
@@ -57,7 +57,7 @@
 | `uncle-bob-craft` | Clean Code review | [SPEC] |
 
 ## Bug Finding & Quality
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `find-bugs` | Bug + vulnerability finding | [CORE] |
 | `bug-hunter` | Systematic bug hunting | [SPEC] |
@@ -68,3 +68,7 @@
 | `code-simplifier` | Simplify code clarity | [SPEC] |
 | `codebase-audit-pre-push` | Pre-push audit | [SPEC] |
 | `sharp-edges` | Error-prone API detection | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

@@ -1,7 +1,7 @@
 # 13 — Monitoring, Observability & Incidents
 
 ## Observability
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `observability-engineer` | Monitoring, logging, tracing | [CORE] |
 | `observability-monitoring-monitor-setup` | Monitor setup | [SPEC] |
@@ -16,7 +16,7 @@
 | `claude-monitor` | Claude Code performance | [SPEC] |
 
 ## Incident Response
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `incident-responder` | SRE incident response | [CORE] |
 | `incident-response-incident-response` | Incident workflow | [SPEC] |
@@ -26,7 +26,7 @@
 | `postmortem-writing` | Blameless postmortems | [SPEC] |
 
 ## Debugging
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `debugger` | Error specialist | [CORE] |
 | `systematic-debugging` | Systematic debug | [CORE] |
@@ -43,8 +43,12 @@
 | `debug-buttercup` | Buttercup CRS debug | [SPEC] |
 
 ## Performance
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `performance-engineer` | Performance engineering | [SPEC] |
 | `performance-profiling` | Profiling principles | [SPEC] |
 | `performance-optimizer` | Performance bottlenecks | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

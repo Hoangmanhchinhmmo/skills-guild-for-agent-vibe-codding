@@ -1,31 +1,31 @@
 # 04 — Mobile Development
 
 ## General
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `mobile-developer` | React Native, Flutter, native | [CORE] |
 | `mobile-design` | Mobile-first design | [CORE] |
 | `mobile-security-coder` | Mobile security | [SEC] |
 
 ## iOS / Swift
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `ios-developer` | Swift/SwiftUI | [SPEC] |
 | `swiftui-expert-skill` | SwiftUI best practices | [SPEC] |
 
 ## Android
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `android-jetpack-compose-expert` | Jetpack Compose | [SPEC] |
 | `android_ui_verification` | Android UI testing | [SPEC] |
 
 ## Flutter
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `flutter-expert` | Flutter + Dart 3 | [SPEC] |
 
 ## React Native & Expo
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `react-native-architecture` | React Native + Expo | [SPEC] |
 | `expo-deployment` | Deploy Expo apps | [SPEC] |
@@ -40,19 +40,19 @@
 | `native-data-fetching` | Native data fetching | [SPEC] |
 
 ## Cross-Platform
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `multi-platform-apps-multi-platform` | Multi-platform features | [SPEC] |
 | `telegram-mini-app` | Telegram Mini Apps | [SPEC] |
 | `electron-development` | Electron desktop apps | [SPEC] |
 
 ## App Store
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `app-store-optimization` | ASO toolkit | [SPEC] |
 
 ## Apple HIG
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `hig-foundations` | Apple HIG foundations | [SPEC] |
 | `hig-patterns` | HIG interaction patterns | [SPEC] |
@@ -68,3 +68,7 @@
 | `hig-components-search` | HIG search/nav | [SPEC] |
 | `hig-components-status` | HIG status/progress | [SPEC] |
 | `hig-components-system` | HIG system components | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

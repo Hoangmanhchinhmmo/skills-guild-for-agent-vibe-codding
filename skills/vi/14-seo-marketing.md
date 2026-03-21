@@ -1,7 +1,7 @@
 # 14 — SEO, Marketing & CRO
 
 ## SEO
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `seo-fundamentals` | SEO core principles | [CORE] |
 | `seo-audit` | SEO audit | [SPEC] |
@@ -23,7 +23,7 @@
 | `keyword-extractor` | SEO keyword extraction | [SPEC] |
 
 ## Marketing & Growth
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `content-creator` | SEO marketing content | [SPEC] |
 | `content-marketer` | AI content marketing | [SPEC] |
@@ -43,7 +43,7 @@
 | `analytics-product` | PostHog, Mixpanel | [SPEC] |
 
 ## CRO
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `page-cro` | Page optimization | [SPEC] |
 | `form-cro` | Form optimization | [SPEC] |
@@ -54,10 +54,14 @@
 | `ab-test-setup` | A/B test setup | [SPEC] |
 
 ## Brand & Writing
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `brand-guidelines` | Sentry brand | [SPEC] |
 | `brand-guidelines-anthropic` | Anthropic brand | [SPEC] |
 | `brand-guidelines-community` | Community brand | [SPEC] |
 | `avoid-ai-writing` | Remove AI writing | [SPEC] |
 | `pricing-strategy` | Pricing design | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

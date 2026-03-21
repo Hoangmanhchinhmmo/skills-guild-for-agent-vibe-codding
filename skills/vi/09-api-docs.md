@@ -1,7 +1,7 @@
 # 09 — API Design & Documentation
 
 ## API Design
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `api-design-principles` | REST + GraphQL design | [CORE] |
 | `api-patterns` | API decision-making | [CORE] |
@@ -12,7 +12,7 @@
 | `openapi-spec-generation` | OpenAPI 3.1 specs | [SPEC] |
 
 ## Documentation
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `documentation` | API docs, architecture docs | [CORE] |
 | `documentation-generation-doc-generate` | Auto doc generation | [SPEC] |
@@ -27,7 +27,7 @@
 | `blog-writing-guide` | Blog posts Sentry | [SPEC] |
 
 ## Wiki System
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `wiki-architect` | Hierarchical wiki | [SPEC] |
 | `wiki-changelog` | Wiki changelog | [SPEC] |
@@ -38,6 +38,10 @@
 | `wiki-vitepress` | VitePress wiki | [SPEC] |
 
 ## Diagrams
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `mermaid-expert` | Mermaid diagrams | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

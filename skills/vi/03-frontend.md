@@ -1,7 +1,7 @@
 # 03 — Frontend Development
 
 ## React Ecosystem
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `react-patterns` | Modern React hooks, composition | [CORE] |
 | `react-best-practices` | React + Next.js optimization | [CORE] |
@@ -16,14 +16,14 @@
 | `shadcn` | shadcn/ui components | [SPEC] |
 
 ## Next.js
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `nextjs-best-practices` | Next.js App Router | [CORE] |
 | `nextjs-app-router-patterns` | Server Components, streaming | [SPEC] |
 | `nextjs-supabase-auth` | Supabase Auth + Next.js | [SPEC] |
 
 ## Angular
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `angular` | Angular v20+ | [SPEC] |
 | `angular-best-practices` | Angular optimization | [SPEC] |
@@ -32,7 +32,7 @@
 | `angular-ui-patterns` | Angular UI patterns | [SPEC] |
 
 ## CSS & Design Systems
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `tailwind-patterns` | Tailwind CSS v4 | [CORE] |
 | `tailwind-design-system` | Design system Tailwind | [SPEC] |
@@ -45,7 +45,7 @@
 | `design-spells` | Micro-interactions | [SPEC] |
 
 ## Frontend Guidelines
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `frontend-dev-guidelines` | Frontend standards | [CORE] |
 | `frontend-developer` | React components, layouts | [CORE] |
@@ -61,7 +61,7 @@
 | `progressive-web-app` | PWA building | [SPEC] |
 
 ## 3D & Visual
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `3d-web-experience` | Three.js 3D web | [SPEC] |
 | `threejs-skills` | Three.js scenes | [SPEC] |
@@ -79,7 +79,7 @@
 | `spline-3d-integration` | Spline 3D integration | [SPEC] |
 
 ## Animation & Art
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `algorithmic-art` | p5.js algorithmic art | [SPEC] |
 | `claude-d3js-skill` | D3.js visualizations | [SPEC] |
@@ -90,7 +90,7 @@
 | `magic-animator` | AI-powered animation | [SPEC] |
 
 ## UI/UX Design
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `ui-ux-designer` | Interface design, wireframes | [SPEC] |
 | `ui-ux-pro-max` | 50+ styles, 96 palettes | [SPEC] |
@@ -109,7 +109,7 @@
 | `enhance-prompt` | UI ideas → polished prompts | [SPEC] |
 
 ## Functional Programming (Frontend)
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `fp-ts-errors` | fp-ts Either + TaskEither | [SPEC] |
 | `fp-ts-pragmatic` | fp-ts practical guide | [SPEC] |
@@ -128,8 +128,12 @@
 | `fp-refactor` | Refactoring to FP | [SPEC] |
 
 ## Drizzle / Prisma / ORM
-| Skill | Mo ta | Muc do |
+| Skill | Mô tả | Mức độ |
 |-------|-------|--------|
 | `prisma-expert` | Prisma ORM | [SPEC] |
 | `drizzle-orm-expert` | Drizzle ORM TypeScript | [SPEC] |
 | `zod-validation-expert` | Zod TypeScript schema | [SPEC] |
+
+---
+
+[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
