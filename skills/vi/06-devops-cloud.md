@@ -75,6 +75,13 @@
 | `network-engineer` | Cloud networking | [SPEC] |
 | `network-101` | Network setup basics | [SPEC] |
 
+### Danh mục liên quan
+- [Git & CI/CD](12-git-cicd.md) — Pipelines và automation
+- [Monitoring & Observability](13-monitoring.md) — Cloud monitoring
+- [Azure SDK](16-azure-sdk.md) — Azure cloud services
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Database & Storage](05-database.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Testing & QA ➡](07-testing.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

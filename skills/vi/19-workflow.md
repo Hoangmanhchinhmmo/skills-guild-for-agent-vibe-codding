@@ -83,6 +83,13 @@
 | `bdi-mental-states` | Mental state modeling | [SPEC] |
 | `kaizen` | Continuous improvement | [SPEC] |
 
+### Danh mục liên quan
+- [Testing & QA](07-testing.md) — TDD workflows
+- [Git & CI/CD](12-git-cicd.md) — Dev workflows
+- [Meta-Skills & Tools](21-meta-skills.md) — Planning tools
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Game & Blockchain](18-game-blockchain.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Specialized & Industry ➡](20-specialized.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

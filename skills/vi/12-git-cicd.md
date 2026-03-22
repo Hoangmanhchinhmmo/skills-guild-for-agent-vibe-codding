@@ -47,6 +47,13 @@
 | `bazel-build-optimization` | Bazel builds | [SPEC] |
 | `build` | Build skill | [SPEC] |
 
+### Danh mục liên quan
+- [DevOps & Cloud](06-devops-cloud.md) — Cloud deployment
+- [Testing & QA](07-testing.md) — CI test pipelines
+- [Workflow & Planning](19-workflow.md) — Dev workflows
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Programming Languages](11-languages.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Monitoring & Observability ➡](13-monitoring.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

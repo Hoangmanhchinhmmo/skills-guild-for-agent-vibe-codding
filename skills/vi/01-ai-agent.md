@@ -112,6 +112,13 @@
 | `evaluation` | Agent evaluation frameworks | [SPEC] |
 | `advanced-evaluation` | Advanced agent evaluation | [SPEC] |
 
+### Danh mục liên quan
+- [Backend Development](02-backend.md) — API và backend cho AI agents
+- [Database & Storage](05-database.md) — Vector DB, embeddings cho RAG
+- [Programming Languages](11-languages.md) — Python, TypeScript cho AI
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Meta-Skills & Tools](21-meta-skills.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Backend Development ➡](02-backend.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

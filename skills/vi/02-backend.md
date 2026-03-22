@@ -125,6 +125,13 @@
 | `twilio-communications` | Twilio SMS/voice | [SPEC] |
 | `algolia-search` | Algolia search | [SPEC] |
 
+### Danh mục liên quan
+- [AI, Agent & LLM](01-ai-agent.md) — AI-powered backends
+- [Database & Storage](05-database.md) — Database cho API
+- [API & Documentation](09-api-docs.md) — Thiết kế và tài liệu API
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ AI, Agent & LLM](01-ai-agent.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Frontend Development ➡](03-frontend.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

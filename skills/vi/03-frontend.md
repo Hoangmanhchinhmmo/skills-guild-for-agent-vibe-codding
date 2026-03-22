@@ -134,6 +134,13 @@
 | `drizzle-orm-expert` | Drizzle ORM TypeScript | [SPEC] |
 | `zod-validation-expert` | Zod TypeScript schema | [SPEC] |
 
+### Danh mục liên quan
+- [Mobile Development](04-mobile.md) — React Native, Flutter
+- [Architecture & Design](10-architecture.md) — Component patterns
+- [SEO & Marketing](14-seo-marketing.md) — Frontend SEO
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Backend Development](02-backend.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Mobile Development ➡](04-mobile.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

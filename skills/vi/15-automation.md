@@ -177,6 +177,13 @@
 | `n8n-workflow-patterns` | n8n patterns | [SPEC] |
 | `workflow-automation` | Workflow automation | [SPEC] |
 
+### Danh mục liên quan
+- [SEO & Marketing](14-seo-marketing.md) — Marketing automation
+- [DevOps & Cloud](06-devops-cloud.md) — Infrastructure automation
+- [Workflow & Planning](19-workflow.md) — Workflow automation
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ SEO & Marketing](14-seo-marketing.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Azure SDK ➡](16-azure-sdk.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

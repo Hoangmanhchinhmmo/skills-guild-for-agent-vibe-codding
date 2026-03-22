@@ -53,6 +53,13 @@
 | `go-playwright` | Go browser automation | [SPEC] |
 | `go-rod-master` | Go-rod browser automation | [SPEC] |
 
+### Danh mục liên quan
+- [SEO & Marketing](14-seo-marketing.md) — Content marketing
+- [Specialized & Industry](20-specialized.md) — Industry documents
+- [Frontend Development](03-frontend.md) — Media integration
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Azure SDK](16-azure-sdk.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Game & Blockchain ➡](18-game-blockchain.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

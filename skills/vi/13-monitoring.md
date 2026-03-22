@@ -49,6 +49,13 @@
 | `performance-profiling` | Profiling principles | [SPEC] |
 | `performance-optimizer` | Performance bottlenecks | [SPEC] |
 
+### Danh mục liên quan
+- [DevOps & Cloud](06-devops-cloud.md) — Infrastructure monitoring
+- [Security](08-security.md) — Security monitoring
+- [Database & Storage](05-database.md) — Database monitoring
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Git & CI/CD](12-git-cicd.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [SEO & Marketing ➡](14-seo-marketing.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

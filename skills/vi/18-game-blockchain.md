@@ -31,6 +31,13 @@
 | `lightning-channel-factories` | Channel factories | [SPEC] |
 | `lightning-factory-explainer` | Factory explainer | [SPEC] |
 
+### Danh mục liên quan
+- [Programming Languages](11-languages.md) — C#, Rust, GDScript
+- [Security](08-security.md) — Smart contract security
+- [Frontend Development](03-frontend.md) — Web-based games
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Office & Media](17-office-media.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Workflow & Planning ➡](19-workflow.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

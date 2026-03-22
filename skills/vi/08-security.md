@@ -103,6 +103,13 @@
 | `memory-safety-patterns` | RAII, ownership |
 | `dwarf-expert` | DWARF debug info |
 
+### Danh mục liên quan
+- [Testing & QA](07-testing.md) — Security testing integration
+- [DevOps & Cloud](06-devops-cloud.md) — Cloud security
+- [Architecture & Design](10-architecture.md) — Secure architecture
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Testing & QA](07-testing.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [API & Documentation ➡](09-api-docs.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

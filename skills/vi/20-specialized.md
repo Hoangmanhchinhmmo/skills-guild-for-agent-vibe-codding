@@ -162,6 +162,13 @@
 | `new-rails-project` | New Rails project |
 | `skill-rails-upgrade` | Rails upgrade |
 
+### Danh mục liên quan
+- [Backend Development](02-backend.md) — Industry backends
+- [Database & Storage](05-database.md) — Industry data
+- [Automation & Integration](15-automation.md) — Business automation
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Workflow & Planning](19-workflow.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Meta-Skills & Tools ➡](21-meta-skills.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

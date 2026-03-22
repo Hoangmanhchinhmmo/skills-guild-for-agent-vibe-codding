@@ -42,6 +42,13 @@
 |-------|-------|--------|
 | `mermaid-expert` | Mermaid diagrams | [SPEC] |
 
+### Danh mục liên quan
+- [Backend Development](02-backend.md) — API backends
+- [Architecture & Design](10-architecture.md) — API architecture
+- [Frontend Development](03-frontend.md) — API consumers
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Security](08-security.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Architecture & Design ➡](10-architecture.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

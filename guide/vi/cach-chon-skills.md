@@ -103,7 +103,7 @@ Skill dành cho người dùng chuyên sâu:
 ## Vẫn chưa biết chọn gì?
 
 1. Xem [Bộ kết hợp Skill](ket-hop-skills.md) để tham khảo các công thức có sẵn
-2. Duyệt qua [danh sách đầy đủ theo danh mục](../../README.md#categories)
+2. Duyệt qua [danh sách đầy đủ theo danh mục](../../README.vi.md#categories)
 3. [Tạo một issue](../../issues) — chúng tôi sẽ gợi ý skill phù hợp cho dự án của bạn
 
 ---

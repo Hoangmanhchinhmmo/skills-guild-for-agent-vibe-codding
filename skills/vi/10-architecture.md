@@ -59,6 +59,13 @@
 | `fixing-accessibility` | Fix HTML accessibility | [SPEC] |
 | `i18n-localization` | i18n patterns | [SPEC] |
 
+### Danh mục liên quan
+- [Backend Development](02-backend.md) — Backend patterns
+- [Database & Storage](05-database.md) — Data architecture
+- [API & Documentation](09-api-docs.md) — API design
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ API & Documentation](09-api-docs.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Programming Languages ➡](11-languages.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

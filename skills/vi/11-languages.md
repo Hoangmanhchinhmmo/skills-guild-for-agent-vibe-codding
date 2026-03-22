@@ -121,6 +121,13 @@
 | `avalonia-viewmodels-zafiro` | Avalonia ViewModels | [SPEC] |
 | `avalonia-zafiro-development` | Avalonia Zafiro dev | [SPEC] |
 
+### Danh mục liên quan
+- [AI, Agent & LLM](01-ai-agent.md) — Python/TS cho AI
+- [Backend Development](02-backend.md) — Backend languages
+- [Testing & QA](07-testing.md) — Language-specific testing
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Architecture & Design](10-architecture.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Git & CI/CD ➡](12-git-cicd.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

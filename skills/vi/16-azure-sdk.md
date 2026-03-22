@@ -173,6 +173,13 @@
 | `m365-agents-py` | Python |
 | `m365-agents-ts` | TypeScript |
 
+### Danh mục liên quan
+- [DevOps & Cloud](06-devops-cloud.md) — Azure cloud infrastructure
+- [Backend Development](02-backend.md) — Azure backend services
+- [Database & Storage](05-database.md) — Azure databases
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Automation & Integration](15-automation.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Office & Media ➡](17-office-media.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

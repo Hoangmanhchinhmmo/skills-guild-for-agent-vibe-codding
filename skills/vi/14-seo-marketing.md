@@ -62,6 +62,13 @@
 | `avoid-ai-writing` | Remove AI writing | [SPEC] |
 | `pricing-strategy` | Pricing design | [SPEC] |
 
+### Danh mục liên quan
+- [Frontend Development](03-frontend.md) — SEO-friendly frontend
+- [Automation & Integration](15-automation.md) — Marketing automation
+- [Office & Media](17-office-media.md) — Content creation
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Monitoring & Observability](13-monitoring.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Automation & Integration ➡](15-automation.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

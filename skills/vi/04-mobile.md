@@ -69,6 +69,13 @@
 | `hig-components-status` | HIG status/progress | [SPEC] |
 | `hig-components-system` | HIG system components | [SPEC] |
 
+### Danh mục liên quan
+- [Frontend Development](03-frontend.md) — React, CSS, UI/UX
+- [Git & CI/CD](12-git-cicd.md) — App deployment pipelines
+- [DevOps & Cloud](06-devops-cloud.md) — Cloud backend cho mobile
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Frontend Development](03-frontend.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Database & Storage ➡](05-database.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

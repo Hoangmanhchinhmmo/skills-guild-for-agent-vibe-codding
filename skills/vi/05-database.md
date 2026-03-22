@@ -53,6 +53,13 @@
 | `machine-learning-ops-ml-pipeline` | ML pipeline design | [SPEC] |
 | `computer-vision-expert` | YOLO, detection, segmentation | [SPEC] |
 
+### Danh mục liên quan
+- [Backend Development](02-backend.md) — API kết nối database
+- [Architecture & Design](10-architecture.md) — Schema design patterns
+- [Monitoring & Observability](13-monitoring.md) — Database monitoring
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Mobile Development](04-mobile.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [DevOps & Cloud ➡](06-devops-cloud.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

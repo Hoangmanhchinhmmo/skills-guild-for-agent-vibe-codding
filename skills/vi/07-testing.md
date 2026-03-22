@@ -69,6 +69,13 @@
 | `codebase-audit-pre-push` | Pre-push audit | [SPEC] |
 | `sharp-edges` | Error-prone API detection | [SPEC] |
 
+### Danh mục liên quan
+- [Security](08-security.md) — Security testing
+- [Git & CI/CD](12-git-cicd.md) — CI test pipelines
+- [Workflow & Planning](19-workflow.md) — TDD workflows
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ DevOps & Cloud](06-devops-cloud.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [Security ➡](08-security.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)

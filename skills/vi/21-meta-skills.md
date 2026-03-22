@@ -119,6 +119,13 @@
 | `cc-skill-continuous-learning` | Continuous learning | [SPEC] |
 | `cc-skill-strategic-compact` | Strategic compact | [SPEC] |
 
+### Danh mục liên quan
+- [AI, Agent & LLM](01-ai-agent.md) — AI skills management
+- [Workflow & Planning](19-workflow.md) — Project workflows
+- [Programming Languages](11-languages.md) — Multi-language tools
+
 ---
 
-[Quay lại Danh mục](../../README.vi.md#categories) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
+[⬅ Specialized & Industry](20-specialized.md) | [Quay lại Danh mục](../../README.vi.md#categories) | [AI, Agent & LLM ➡](01-ai-agent.md)
+
+[Bắt đầu](../../guide/vi/bat-dau.md) | [Kết hợp Skills](../../guide/vi/ket-hop-skills.md) | [Cách chọn Skills](../../guide/vi/cach-chon-skills.md)
